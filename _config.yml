@@ -1,4 +1,5 @@
 # Basic
+baseurl：/MyBlog
 title: Panda's Space
 subtitle: 第三空间
 description: 欢迎来到我的个人网站~
@@ -7,7 +8,6 @@ avatarTitle: Panda
 # 头像里面的描述
 avatarDesc: 3D打印/单片机/嵌入式
 url: "http://github.com"
-
 
 # Comment
 comment:
@@ -62,7 +62,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/MyBlog/rchive'}   
     - {title: 标签, description: tags,   url: '/MyBlog/tags'  }   
     - {title: 留言, description: liuyan, url: '/MyBlog/liuyan'}
-    - {title: 信息, description: ziyuan, url: '/MyBlog/ziyuan'}
+    - {title: 信息, description: ziyuan, url: '/ziyuan'}
     - {title: 关于, description: about,  url: '/MyBlog/about' }
 
           
