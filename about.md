@@ -45,7 +45,7 @@ date: 2017-03-01
 <p>邮箱：xingzhh@126.com   &emsp;微信：**********
 <p>
 
-<a href="/time_tree/" style="color:#708090"  target="_blank"> <h5>Website Time (Building...)</h5></a>  
+<a href="/MyBlog/time_tree/" style="color:#708090"  target="_blank"> <h5>Website Time (Building...)</h5></a>  
 </p>
 
 
